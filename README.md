@@ -5,7 +5,7 @@ This is the source code of the RDA method, which has been published as “Reliab
 
 *GSL.m : Core codes of GSL algorithm.*
 
-NGSL.m : Core codes of NGSL algorithm.
+`<NGSL.m : Core codes of NGSL algorithm.>`
 
 demoGSL.m : Evaluate GSL/NGSL on an example task (C-W in 4DA dataset).
 
