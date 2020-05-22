@@ -3,7 +3,7 @@ This is the source code of the RDA method, which has been published as “Reliab
 
 ## In the file, there are multiple .m files.
 
-GSL.m : Core codes of GSL algorithm.
+*GSL.m : Core codes of GSL algorithm.*
 
 NGSL.m : Core codes of NGSL algorithm.
 
