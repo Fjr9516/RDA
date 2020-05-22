@@ -13,7 +13,7 @@ This is the source code of the RDA method, which has been published as “Reliab
 
 `NRDA: Choose 'linear'(linear kernel in our paper,for example) as 'options.kernel' , the final accrucy will be ‘96.25%’.`
 
-## When you use our code, there are some parameters need to be adjusted according to different tasks. We recommend that you adjust these parameters when using this code on a new dataset.
+## When you use our code, there are some parameters need to be adjusted according to different tasks. We recommend to adjust these parameters when using this code on a new dataset.
 
 ## Once you run the code, please correctly set the path of the data and liblinear toolbox
 
